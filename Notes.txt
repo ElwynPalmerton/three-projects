@@ -1,0 +1,5 @@
+Research:
+
+--> MeshBasicMaterial options
+
+--> Modulating a SpotLight with a texture loader

@@ -36,7 +36,7 @@ nav ul {
     gap: 2rem;
 }
 
-.title {
+/* .title {
     color: white;
     z-index: 2;
     position: absolute;
@@ -46,4 +46,4 @@ nav ul {
     transform: translate(-50%, -25%);
     font-family: 'Poppins', sans-serif;
     font-family: 'Space Mono', monospace;
-}
+} */
