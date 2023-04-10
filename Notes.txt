@@ -3,3 +3,19 @@ Research:
 --> MeshBasicMaterial options
 
 --> Modulating a SpotLight with a texture loader
+
+--> Clipping
+
+--> Camera movement with .lookAt();
+
+--> frustrum.
+
+https://github.com/mrdoob/three.js/blob/master/examples/webgl_interactive_cubes_ortho.html
+
+--> Install ESLint and play with settings. 
+    -Does Vite have settings for this?
+
+    --> Background texture.
+
+--> Experiment with making lines
+    :: Make a walker animation.
